@@ -40,7 +40,7 @@ The project consist of the following steps:
 LinearRegression()
 R2 Value: 0.6850018441906278
 
-##### Model Validation and Accuracy Calculations ##########
+ Model Validation and Accuracy Calculations 
       LSTAT        RM   PTRATIO  price  Predictedprice
 0  0.201711  0.547040  0.425532   23.6            27.0
 1  0.049669  0.612569  0.531915   32.4            31.0
