@@ -3,13 +3,13 @@
 The project is baed on the Boston housing data set. It contains details of 506 houses in Boston city. 
 
 The aim of this project was to try different Machine Learning models and see which model has the highest accuracy. The below Machine Learning Models have been applied:
-- Linear Regression
-- Decision Trees
-- Random Forest
-- Ada Boost
-- XGBoost
-- KNN
-- SVM
+- Linear Regression   (accuracy: 79.21%)
+- Decision Trees      (accuracy: 82.22%)
+- Random Forest       (accuracy: 83.92%)
+- Ada Boost           (accuracy: 80.94%)
+- XGBoost             (accuracy: 83.08%)
+- KNN                 (accuracy: 82.80%)
+- SVM                 (accuracy: 81.13%)
 
 The project consist of the following steps:
 
