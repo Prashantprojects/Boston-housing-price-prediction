@@ -34,4 +34,3 @@ The project consist of the following steps:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![plot](C:/Users/prash/Desktop/Good/Multiple Linear Regression/acc.png)
