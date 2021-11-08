@@ -1,12 +1,8 @@
 # Boston-housing-price-prediction
 
-This project is baed on the Boston housing data set. It contains details of 506 houses in Boston city. 
+The project is baed on the Boston housing data set. It contains details of 506 houses in Boston city. 
 
-The aim of this project was to try different Machine Learning models and see which model has the highest accuracy. I have tried the following Machine Learning Models:
-- 
-
-
-Our aim of this project is to try differnt Machine Learning models and see which model 
+The aim of this project was to try different Machine Learning models and see which model has the highest accuracy. The below Machine Learning Models have been applied:
 - Linear Regression
 - Decision Trees
 - Random Forest
@@ -34,10 +30,8 @@ The project consist of the following steps:
 - Trying multiple Regression algorithms
 - Selecting the best Model
 - Deploying the best model in production
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Multiple Linear Regression**
-* R2 Value: 0.6850018441906278
-* Mean Accuracy on test data: 81.04132004578314
-* Median Accuracy on test data: 87.30561189993239
-* Final Average Accuracy of the model: 79.21
+![Alt text](C:/Users/prash/Desktop/Good/Multiple Linear Regression/acc.png"Optional Title")
